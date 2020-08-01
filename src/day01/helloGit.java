@@ -12,5 +12,11 @@ public class helloGit {
             System.out.println(i);
             i++;
         }
+
+        if(i<10){
+            System.out.println("i is less  than 10");
+        }else {
+            System.out.println("i is greater than 10");
+        }
     }
 }
